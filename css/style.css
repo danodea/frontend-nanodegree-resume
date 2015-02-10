@@ -23,7 +23,7 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 24px;
-  color: #999999;
+  color: #5E5E5E;
   line-height: 29px;
   padding: 10px;
 }
@@ -73,7 +73,7 @@ p {
 }
 
 a {
-  color: #1199C3;
+  color: #0E7899;
   text-decoration: none;
   margin-top: 10px;
   display: block;
@@ -116,7 +116,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #1199C3;
 }
 
 .flex-box {
