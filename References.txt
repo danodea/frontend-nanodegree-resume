@@ -1,0 +1,6 @@
+A list of references I used while working on Project 2:
+
+1. www.w3schools.com
+2. Udacity's JavaScript Basics course and the many links in the instructors notes
+3. Piazza
+4. Google search
